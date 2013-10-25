@@ -1,0 +1,6 @@
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2556-10-25 19:26:51
+project --topLevelPackage sut.sa.pizza
+osgi start --url http://zk-roo.googlecode.com/files/org.zkoss.zk.roo.addon-1.0.0.M4.jar
+ web zk setup
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2556-10-25 19:32:42
